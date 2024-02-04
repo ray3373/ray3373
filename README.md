@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Raj
+- 👀 I’m interested in developing Websites
+- 🌱 I’m currently learning MERN
+- 📫 You can contact me on raj3373y@gmail.com
+- 😄 Pronouns: HE/HIM
